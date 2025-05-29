@@ -1,0 +1,97 @@
+[
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug/ti_msp_dl_config.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/All_Init.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/Emm42_v4.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/JY61P.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/LED.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/PID.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/PWM.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/Timer_G0.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/Timer_G6.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/buzzer.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/enconder.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/grey.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/key.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/main.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/motor.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/uart_0.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/uart_1.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware/uart_2.c"
+   },
+   {
+      "directory" : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -I\"F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/Hardware\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"D:/tii/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "F:/24年电赛/省一/empty_LP_MSPM0G3507_nortos_ticlang/OLED/oled.c"
+   }
+]
